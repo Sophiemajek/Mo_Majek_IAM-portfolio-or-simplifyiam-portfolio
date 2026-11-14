@@ -1,2 +1,2 @@
-# Mo_Majek_IAM-portfolio-or-simplifyiam-portfolio
+# Mo_Majek_IAM-portfolio-or-
 IAM implementation portfolio - 
